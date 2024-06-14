@@ -1,1 +1,1 @@
-# Two-Sided-Animated-Login-Form
+This project utilizes the latest web technologies to create a polished and user-friendly interface. HTML5 structures the content, CSS3 brings the design to life with styling and animations, and JavaScript adds interactivity for a fluid transition between login and sign-up forms. Whether you are a developer looking to implement a sleek authentication form or someone seeking to enhance user experience in a web application, this project serves as an excellent foundation. Dive in, explore the code, and adapt it to suit your specific requirements.
